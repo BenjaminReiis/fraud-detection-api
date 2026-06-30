@@ -1,11 +1,12 @@
-# 🚨 Real-Time Fraud Detection API
+## 🚨 Real-Time Fraud Detection API
 
 https://benjaminreiis.github.io/fraud-detection-api/
+
 API de detecção de fraude em tempo real desenvolvida com foco em arquitetura de backend profissional.
-🔗 API Online:
-https://fraud-detection-api-jvwk.onrender.com
-📄 Documentação (Swagger):
-https://fraud-detection-api-jvwk.onrender.com/docs
+🔗 API Online: https://fraud-detection-api-jvwk.onrender.com
+
+📄 Documentação (Swagger): https://fraud-detection-api-jvwk.onrender.com/docs
+
 ---
 ## 💡 Sobre o Projeto
 Este projeto simula como sistemas financeiros analisam transações bancárias para detectar possíveis fraudes em tempo real.
